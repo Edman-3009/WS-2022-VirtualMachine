@@ -1,8 +1,8 @@
 # Edgar Torres
 
-[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Follow&style=social)](https://github.com/tu_usuario)
-[![GitHub repos](https://img.shields.io/github/repo-count/tu_usuario?color=blue)](https://github.com/tu_usuario)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)](https://github.com/tu_usuario)
+[![GitHub followers](https://img.shields.io/github/followers/Edman-3009?label=Follow&style=social)](https://github.com/Edman-3009)
+[![GitHub repos](https://img.shields.io/github/repo-count/Edman-3009?color=blue)](https://github.com/Edman-3009)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edman-3009&layout=compact)](https://github.com/Edman-3009)
 
 ---
 
