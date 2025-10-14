@@ -6,7 +6,7 @@ Esta guía detalla el proceso paso a paso para instalar Windows Server 2022 en P
 
 ## Índice
 
-1. [Acceso a Proxmox](#acceso-a-proxmox)
+1. [Acceso a Proxmox](#Acceso-a-Proxmox)
 2. [Carga de la imagen ISO](#carga-de-la-imagen-iso)
 3. [Creación de la máquina virtual](#creacion-de-la-maquina-virtual)
 4. [Especificación de recursos y configuración](#especificacion-de-recursos-y-configuracion)
