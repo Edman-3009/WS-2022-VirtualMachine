@@ -6,15 +6,15 @@ Esta guía detalla el proceso paso a paso para instalar Windows Server 2022 en P
 
 ## Índice
 
-1. [Acceso a Proxmox](#Acceso a Proxmox)
-2. [Carga de la imagen ISO](#carga-de-la-imagen-iso)
-3. [Creación de la máquina virtual](#creacion-de-la-maquina-virtual)
-4. [Especificación de recursos y configuración](#especificacion-de-recursos-y-configuracion)
-5. [Inicio de la instalación de Windows Server](#inicio-de-la-instalacion-de-windows-server)
-6. [Instalación del sistema operativo](#instalacion-del-sistema-operativo)
-7. [Configuración inicial de Windows Server](#configuracion-inicial-de-windows-server)
-8. [Instalación de drivers VirtIO](#instalacion-de-drivers-virtio)
-9. [Verificación y administración](#verificacion-y-administracion)
+1. [Acceso a Proxmox](#1-acceso-a-proxmox)
+2. [Carga de la imagen ISO](#2-carga-de-la-imagen-iso)
+3. [Creación de la máquina virtual](#3-creacion-de-la-maquina-virtual)
+4. [Especificación de recursos y configuración](#4-especificacion-de-recursos-y-configuracion)
+5. [Inicio de la instalación de Windows Server](#5-inicio-de-la-instalacion-de-windows-server)
+6. [Instalación del sistema operativo](#6-instalacion-del-sistema-operativo)
+7. [Configuración inicial de Windows Server](#7-configuracion-inicial-de-windows-server)
+8. [Instalación de drivers VirtIO](#8-instalacion-de-drivers-virtio)
+9. [Verificación y administración](#9-verificacion-y-administracion)
 
 ---
 
