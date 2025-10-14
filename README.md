@@ -190,14 +190,3 @@ Consulta el estado y uso de recursos desde la consola de Proxmox.
 ![Resumen de recursos VM en Proxmox](35.png)
 
 ---
-
-## Conclusión
-
-¡Has completado la instalación de Windows Server 2022 en Proxmox! A partir de aquí puedes comenzar a configurar roles, servicios y ajustar la VM según tus necesidades.
-
----
-
-### Créditos
-
-Guía elaborada por Edman-3009.  
-Capturas tomadas del proceso real de instalación en Proxmox VE 9.x.
