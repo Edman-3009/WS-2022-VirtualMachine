@@ -32,7 +32,7 @@ Sube la imagen ISO de Windows Server 2022 al almacenamiento local de Proxmox.
 
 **Selecciona el almacenamiento → Imágenes ISO → Cargar**
 
-![Carga de ISO - Selección de archivo](5.png)
+![Carga de ISO - Selección de archivo](docs/5.png)
 
 Selecciona el archivo ISO desde tu equipo.
 
